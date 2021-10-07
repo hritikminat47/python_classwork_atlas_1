@@ -1,0 +1,16 @@
+,student_name,math_scores,chemistry_scores,information_technology_scores,physics_scores,division,total_score,average_score,status,character_grade,student_email
+0,Kareena,22,30,34,60,C,146,36.5,pass,D,kareena@gmail.com
+1,Alia,56,56,6,88,C,206,51.5,pass,C,alia@gmail.com
+2,Priyanka,76,78,98,58,C,310,77.5,pass,B,priyanka@gmail.com
+3,Shahrukh,78,23,100,90,C,291,72.75,pass,B,shahrukh@gmail.com
+4,Salman,90,100,40,25,C,255,63.75,pass,C,salman@gmail.com
+5,Kareena,22,30,34,60,B,146,36.5,pass,D,kareena@gmail.com
+6,Alia,56,56,6,88,B,206,51.5,pass,C,alia@gmail.com
+7,Priyanka,76,78,98,58,B,310,77.5,pass,B,priyanka@gmail.com
+8,Shahrukh,78,23,100,90,B,291,72.75,pass,B,shahrukh@gmail.com
+9,Salman,90,100,40,25,B,255,63.75,pass,C,salman@gmail.com
+10,Kareena,22,30,34,60,C,146,36.5,pass,D,kareena@gmail.com
+11,Alia,56,56,6,88,C,206,51.5,pass,C,alia@gmail.com
+12,Priyanka,76,78,98,58,C,310,77.5,pass,B,priyanka@gmail.com
+13,Shahrukh,78,23,100,90,C,291,72.75,pass,B,shahrukh@gmail.com
+14,Salman,90,100,40,25,C,255,63.75,pass,C,salman@gmail.com
